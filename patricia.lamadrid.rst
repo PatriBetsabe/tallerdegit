@@ -9,4 +9,9 @@ lalalaalaalala
 
 Esta es una historia *muy* graciosa
 Estabamos ensayando **un baile para una actividad** y no queria bailar
-y fingi un desmayo
+y fingi un desmay
+
+.. image:: pato.jpeg
+
+Esto es un pato
+
